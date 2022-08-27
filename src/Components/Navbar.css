@@ -1,0 +1,29 @@
+.nav{
+    display: flex;
+    background-color: beige;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 8px;
+    
+}
+.left_side{
+    display: flex;
+    justify-content: space-between;
+}
+.left_side h1{
+    margin: 5px;
+}
+.right_side{
+    display: flex;
+    justify-content: space-between;
+}
+.right_side h1{
+    margin: 0rem 0.5rem;
+}
+.navlink{
+    text-decoration: none;
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+}
